@@ -28,11 +28,6 @@ namespace TODOlistapplication
             Class1.MarkTaskAsDone(i);
             this.Close();
         }
-
-        private void button2_Click(object sender, EventArgs e)
-        {
-            this.Close();
-        }
     }
 
 }
